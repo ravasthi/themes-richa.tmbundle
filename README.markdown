@@ -5,9 +5,8 @@
 The TextMate guys have a much better solution!
 
 1. Preferences → Bundles → Click Themes → Check Solarized
-2. Put the font preferences in a file.
+2. Put the font preferences in the preference file `~/.tm_properties`
 
-	# Settings
 	fontName         = "Anonymous Pro"
 	fontSize         = 14
 
