@@ -7,6 +7,10 @@ The TextMate guys have a much better solution!
 1. Preferences → Bundles → Click Themes → Check Solarized
 2. Put the font preferences in a file.
 
+	# Settings
+	fontName         = "Anonymous Pro"
+	fontSize         = 14
+
 ## Acknowledgements
 
 First let's be clear that I just mashed this together from the awesomeness 
