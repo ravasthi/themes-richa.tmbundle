@@ -7,9 +7,9 @@ The TextMate guys have a much better solution!
 1. Preferences → Bundles → Click Themes → Check Solarized
 2. Put the font preferences in the preference file `~/.tm_properties`
 
-    fontName         = "Anonymous Pro"
-    fontSize         = 14
-
+        fontName         = "Anonymous Pro"
+        fontSize         = 14
+  
 ## Acknowledgements
 
 First let's be clear that I just mashed this together from the awesomeness 
@@ -27,7 +27,7 @@ So in order of awesomeness:
 
 It was a Theme Bundle for the TextMate 2 Alpha. Themes go into Bundles now. Bundles live in Avion.
 
-	cd ~/Library/Application\ Support/Avian/Bundles
+  cd ~/Library/Application\ Support/Avian/Bundles
 	git clone git://github.com/agileanimal/Themes.tmbundle.git
 	
 ## What did you do to the font?
