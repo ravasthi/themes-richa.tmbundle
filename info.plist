@@ -1,10 +1,23 @@
-{	"contactEmailRot13" = "richa@avasthi.name";
-	contactName = "Richa Avasthi";
-	description = "My modifications to popular themes.";
-	name = "Richa's Themes";
-	source = {
-		method = "git";
-		url = "git://github.com/ravasthi/Themes.tmbundle.git";
-	};
-	uuid = "A4380B27-F366-4C70-A542-B00D26ED997E";
-}
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>richa@avasthi.name</string>
+	<key>contactName</key>
+	<string>Richa Avasthi</string>
+	<key>description</key>
+	<string>My modifications to popular themes.</string>
+	<key>name</key>
+	<string>Richa's Themes</string>
+	<key>source</key>
+	<dict>
+		<key>method</key>
+		<string>git</string>
+		<key>url</key>
+		<string>git://github.com/ravasthi/Themes.tmbundle.git</string>
+	</dict>
+	<key>uuid</key>
+	<string>A4380B27-F366-4C70-A542-B00D26ED997E</string>
+</dict>
+</plist>
