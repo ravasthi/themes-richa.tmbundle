@@ -229,7 +229,7 @@
 			<key>name</key>
 			<string>Tag Attribute</string>
 			<key>scope</key>
-			<string>entity.other.attribute-name</string>
+			<string>entity.other.attribute-name, entity.name.tag.class.haml</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>

@@ -227,7 +227,7 @@
 			<key>name</key>
 			<string>Markup value</string>
 			<key>scope</key>
-			<string>entity.other.attribute-name</string>
+			<string>entity.other.attribute-name, entity.name.tag.class.haml</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
