@@ -73,6 +73,28 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>CSS property name</string>
+			<key>scope</key>
+			<string>meta.property-name.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A1BC67</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS property value</string>
+			<key>scope</key>
+			<string>meta.property-value.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#90C4C4</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Function Name</string>
 			<key>scope</key>
 			<string>entity.name</string>
@@ -91,6 +113,17 @@
 			<dict>
 				<key>foreground</key>
 				<string>#FFF980</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Default Variable</string>
+			<key>scope</key>
+			<string>variable</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#B5AACA</string>
 			</dict>
 		</dict>
 		<dict>
@@ -309,6 +342,8 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
 				<string></string>
 			</dict>
 		</dict>
