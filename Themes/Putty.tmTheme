@@ -98,13 +98,13 @@
 			<key>name</key>
 			<string>Variable</string>
 			<key>scope</key>
-			<string>variable.language, variable.other</string>
+			<string>variable, variable.language, variable.other</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#7AB8D7</string>
+				<string>#A4C372</string>
 			</dict>
 		</dict>
 		<dict>
