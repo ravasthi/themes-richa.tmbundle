@@ -12,15 +12,15 @@
 				<key>background</key>
 				<string>#242322</string>
 				<key>caret</key>
-				<string>#FFFFFF</string>
+				<string>#ffffff</string>
 				<key>foreground</key>
-				<string>#CFCBC5</string>
+				<string>#cfcbc5</string>
 				<key>invisibles</key>
 				<string>#404040</string>
 				<key>lineHighlight</key>
 				<string>#333435</string>
 				<key>selection</key>
-				<string>#5A647EE0</string>
+				<string>#5a647e80</string>
 			</dict>
 		</dict>
 		<dict>
@@ -54,7 +54,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E9EEC2</string>
+				<string>#e9eec2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -67,7 +67,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D5584B</string>
+				<string>#d5584b</string>
 			</dict>
 		</dict>
 		<dict>
@@ -78,7 +78,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#ffffff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -91,7 +91,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FDA35E</string>
+				<string>#fda35e</string>
 			</dict>
 		</dict>
 		<dict>
@@ -104,7 +104,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A4C372</string>
+				<string>#a4c372</string>
 			</dict>
 		</dict>
 		<dict>
@@ -117,7 +117,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#85B4CE</string>
+				<string>#85b4ce</string>
 			</dict>
 		</dict>
 		<dict>
@@ -128,7 +128,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFA35E</string>
+				<string>#ffa35e</string>
 			</dict>
 		</dict>
 		<dict>
@@ -141,7 +141,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#6E9CBE</string>
+				<string>#6e9cbe</string>
 			</dict>
 		</dict>
 		<dict>
@@ -154,7 +154,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#85B4CE</string>
+				<string>#85b4ce</string>
 			</dict>
 		</dict>
 		<dict>
@@ -167,7 +167,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D4584B</string>
+				<string>#d4584b</string>
 			</dict>
 		</dict>
 		<dict>
@@ -178,7 +178,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6E9CBE</string>
+				<string>#6e9cbe</string>
 			</dict>
 		</dict>
 		<dict>
@@ -189,7 +189,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FDA35E</string>
+				<string>#fda35e</string>
 			</dict>
 		</dict>
 		<dict>
@@ -202,7 +202,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E87658</string>
+				<string>#e87658</string>
 			</dict>
 		</dict>
 		<dict>
@@ -215,7 +215,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D6A443</string>
+				<string>#d6a443</string>
 			</dict>
 		</dict>
 		<dict>
@@ -228,7 +228,7 @@
 				<key>background</key>
 				<string>#990000</string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#ffffff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -241,7 +241,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FDA35E</string>
+				<string>#fda35e</string>
 			</dict>
 		</dict>
 		<dict>
@@ -252,9 +252,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#2F7248</string>
+				<string>#2f7248</string>
 				<key>foreground</key>
-				<string>#E6E1DC</string>
+				<string>#e6e1dc</string>
 			</dict>
 		</dict>
 		<dict>
@@ -265,9 +265,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#983C2C</string>
+				<string>#983c2c</string>
 				<key>foreground</key>
-				<string>#E6E1DC</string>
+				<string>#e6e1dc</string>
 			</dict>
 		</dict>
 		<dict>
@@ -278,7 +278,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#3970AB</string>
+				<string>#3970ab</string>
 			</dict>
 		</dict>
 	</array>
