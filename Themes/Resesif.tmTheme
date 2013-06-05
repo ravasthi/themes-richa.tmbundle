@@ -160,7 +160,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#71BACC</string>
+				<string>#D0B65D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -171,11 +171,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#9DBB530F</string>
+				<string>#3F78990F</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#B0CC66</string>
+				<string>#73A2C1</string>
 			</dict>
 		</dict>
 		<dict>
