@@ -7,4 +7,4 @@ This is a port of the various popular themes (due credit to the original authors
 ## Installation
 
 1. `cd ~/Library/Application\ Support/Avian/Bundles`
-2. `git clone git://github.com/ravasthi/Themes.tmbundle.git`
+2. `git clone git://github.com/ravasthi/themes-richa.tmbundle.git`
