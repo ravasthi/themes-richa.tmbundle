@@ -2,7 +2,7 @@ body.richa
 {
   background: white;
   color: black;
-  font-family: "PT Sans", "Deja Vu Sans", "Bitstream Vera Sans", Tahoma, sans-serif;
+  font-family: "PT Sans", "DejaVu Sans", "Bitstream Vera Sans", Tahoma, sans-serif;
   font-size: 14px;
   line-height: 21px;
   height: 100%;
@@ -197,7 +197,7 @@ body.richa
       box-shadow: 0 1px 0 rgba(0,0,0,0.25),0 1px 2px rgba(0,0,0,0.5),0 -1px 0 rgba(255,255,255,0.15) inset;
       -webkit-box-sizing: border-box;
       box-sizing: border-box;
-      font-family: "PT Sans", "Deja Vu Sans", "Bitstream Vera Sans", Tahoma, sans-serif;
+      font-family: "PT Sans", "DejaVu Sans", "Bitstream Vera Sans", Tahoma, sans-serif;
       font-size: 18px;
       font-weight: bold;
       margin: 0;
@@ -352,7 +352,7 @@ body.richa
   left: 0;
   margin: 0;
   overflow: auto;
-  padding: 25px 15px 15px;
+  padding: 30px 15px 15px;
   position: absolute;
   right: 0;
   top: 28px;
