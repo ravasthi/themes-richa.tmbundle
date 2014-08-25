@@ -15,7 +15,7 @@
 		<key>foreground</key>
 		<string>#65737e</string>
 		<key>selectionBackground</key>
-		<string>#4f5b66</string>
+		<string>#4f5b66a0</string>
 		<key>selectionForeground</key>
 		<string>#a7adba</string>
 	</dict>
