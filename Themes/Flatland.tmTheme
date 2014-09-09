@@ -307,7 +307,7 @@
 			<key>name</key>
 			<string>css tag-name</string>
 			<key>scope</key>
-			<string>meta.selector.css entity.name.tag</string>
+			<string>meta.selector entity.name.tag</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -318,7 +318,7 @@
 			<key>name</key>
 			<string>css#id</string>
 			<key>scope</key>
-			<string>meta.selector.css entity.other.attribute-name.id</string>
+			<string>meta.selector entity.other.attribute-name.id</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -329,7 +329,7 @@
 			<key>name</key>
 			<string>css.class</string>
 			<key>scope</key>
-			<string>meta.selector.css entity.other.attribute-name.class</string>
+			<string>meta.selector entity.other.attribute-name.class</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
