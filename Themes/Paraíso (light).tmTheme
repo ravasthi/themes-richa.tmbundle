@@ -17,7 +17,7 @@
 		<key>foreground</key>
 		<string>#6b6d62</string>
 		<key>selectionBackground</key>
-		<string>#e7e9db</string>
+		<string>#e7e9dba0</string>
 		<key>selectionForeground</key>
 		<string>#a39e9b</string>
 	</dict>
@@ -39,9 +39,9 @@
 				<key>invisibles</key>
 				<string>#b9b6b0</string>
 				<key>lineHighlight</key>
-				<string>#b9b6b0</string>
+				<string>#d0ccc3a0</string>
 				<key>selection</key>
-				<string>#b9b6b0</string>
+				<string>#d0ccc3a0</string>
 			</dict>
 		</dict>
 		<dict>
