@@ -16,7 +16,7 @@
 				<key>foreground</key>
 				<string>#010101</string>
 				<key>invisibles</key>
-				<string>#CAE2FB3D</string>
+				<string>#9CA6B255</string>
 				<key>lineHighlight</key>
 				<string>#FFFFFF0D</string>
 				<key>selection</key>
@@ -187,7 +187,7 @@
 				<key>fontStyle</key>
 				<string>italic underline</string>
 				<key>foreground</key>
-				<string>#A00294</string>
+				<string>#CFA8B8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -198,9 +198,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#DF68D9BF</string>
+				<string>#D3185FC0</string>
 				<key>foreground</key>
-				<string>#A00294</string>
+				<string>#EEB5CE</string>
 			</dict>
 		</dict>
 		<dict>

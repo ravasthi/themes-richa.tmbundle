@@ -405,7 +405,7 @@
 			<key>name</key>
 			<string>css tag-name</string>
 			<key>scope</key>
-			<string>meta.selector.css entity.name.tag</string>
+			<string>meta.selector.css entity.name.tag, meta.selector.scss entity.name.tag</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -416,7 +416,7 @@
 			<key>name</key>
 			<string>css pseudo</string>
 			<key>scope</key>
-			<string>meta.selector.css entity.other.attribute-name.pseudo-class.css,meta.selector.css entity.other.attribute-name.pseudo-element.css</string>
+			<string>meta.selector.css entity.other.attribute-name.pseudo-class.css, meta.selector.css entity.other.attribute-name.pseudo-element.css, meta.selector.scss entity.other.attribute-name.pseudo-class.css, meta.selector.scss entity.other.attribute-name.pseudo-element.css</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -427,7 +427,7 @@
 			<key>name</key>
 			<string>css id</string>
 			<key>scope</key>
-			<string>meta.selector.css entity.other.attribute-name.id</string>
+			<string>meta.selector.css entity.other.attribute-name.id, meta.selector.scss entity.other.attribute-name.id</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -438,7 +438,7 @@
 			<key>name</key>
 			<string>css class</string>
 			<key>scope</key>
-			<string>meta.selector.css entity.other.attribute-name.class</string>
+			<string>meta.selector.css entity.other.attribute-name.class, meta.selector.scss entity.other.attribute-name.class</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -451,7 +451,7 @@
 			<key>name</key>
 			<string>css property-name</string>
 			<key>scope</key>
-			<string>support.type.property-name.css</string>
+			<string>support.type.property-name.css, support.type.property-name.scss</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -462,7 +462,7 @@
 			<key>name</key>
 			<string>css property-value</string>
 			<key>scope</key>
-			<string>meta.property-group support.constant.property-value.css, meta.property-value support.constant.property-value.css</string>
+			<string>meta.property-group support.constant.property-value.css, meta.property-value support.constant.property-value.css, meta.property-group support.constant.property-value.scss, meta.property-value support.constant.property-value.scss</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -501,7 +501,7 @@
 			<key>name</key>
 			<string>css constructor</string>
 			<key>scope</key>
-			<string>meta.constructor.argument.css</string>
+			<string>meta.constructor.argument.css, meta.constructor.argument.scss</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
