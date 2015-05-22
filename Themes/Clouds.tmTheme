@@ -10,17 +10,17 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FFFFFF</string>
+				<string>#ffffff</string>
 				<key>caret</key>
 				<string>#000000</string>
 				<key>foreground</key>
-				<string>#333333</string>
+				<string>#444444</string>
 				<key>invisibles</key>
-				<string>#BFBFBF</string>
+				<string>#bfbfbf</string>
 				<key>lineHighlight</key>
-				<string>#FFFBD1</string>
+				<string>#fffbd1</string>
 				<key>selection</key>
-				<string>#BDD5FC</string>
+				<string>#bdd5fc60</string>
 			</dict>
 		</dict>
 		<dict>
@@ -33,7 +33,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#8B9789</string>
+				<string>#a4a9a3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -46,7 +46,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#5D90CD</string>
+				<string>#5d90cd</string>
 			</dict>
 		</dict>
 		<dict>
@@ -57,7 +57,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#46A609</string>
+				<string>#46a609</string>
 			</dict>
 		</dict>
 		<dict>
@@ -70,7 +70,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#39946A</string>
+				<string>#39946a</string>
 			</dict>
 		</dict>
 		<dict>
@@ -85,11 +85,33 @@
 			<key>name</key>
 			<string>Variable</string>
 			<key>scope</key>
-			<string>variable.language, variable.other</string>
+			<string>variable.other</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Language variable</string>
+			<key>scope</key>
+			<string>variable.language</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#82afb2</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SCSS/Less variable</string>
+			<key>scope</key>
+			<string>variable.other.scss, variable.other.less</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#82afb2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -102,7 +124,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#AF956F</string>
+				<string>#a69884</string>
 			</dict>
 		</dict>
 		<dict>
@@ -113,7 +135,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#96DC5F</string>
+				<string>#81b558</string>
 			</dict>
 		</dict>
 		<dict>
@@ -137,7 +159,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#C52727</string>
+				<string>#c52727</string>
 			</dict>
 		</dict>
 		<dict>
@@ -149,6 +171,8 @@
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
+				<key>foreground</key>
+				<string>#ce5e28</string>
 			</dict>
 		</dict>
 		<dict>
@@ -171,8 +195,8 @@
 			<string>entity.name.function</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
+				<key>foreground</key>
+				<string>#c88b4b</string>
 			</dict>
 		</dict>
 		<dict>
@@ -187,13 +211,13 @@
 			<key>name</key>
 			<string>Tag name</string>
 			<key>scope</key>
-			<string>entity.name.tag</string>
+			<string>entity.name.tag, meta.tag</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#606060</string>
+				<string>#c88b4b</string>
 			</dict>
 		</dict>
 		<dict>
@@ -204,7 +228,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#BF78CC</string>
+				<string>#b7a1c7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -215,7 +239,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#BF78CC</string>
+				<string>#b7a1c7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -241,31 +265,44 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#C52727</string>
+				<string>#c52727</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CSS Selector</string>
+			<string>CSS ID Selector</string>
 			<key>scope</key>
-			<string>entity.other.attribute-name.id.css, entity.other.attribute-name.class.css</string>
+			<string>entity.other.attribute-name.id.css</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#547C98</string>
+				<string>#486a81</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS Class Selector</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name.class.css</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#547c98</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>CSS Property</string>
 			<key>scope</key>
-			<string>meta.property-name.css</string>
+			<string>meta.property-name.css, meta.property-name.scss</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#484848</string>
+				<string>#c88b4b</string>
 			</dict>
 		</dict>
 		<dict>
@@ -276,7 +313,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C52727</string>
+				<string>#c52727</string>
 			</dict>
 		</dict>
 		<dict>
@@ -327,7 +364,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#C52727</string>
+				<string>#c52727</string>
 			</dict>
 		</dict>
 		<dict>
@@ -351,7 +388,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#BF78CC</string>
+				<string>#b7a1c7</string>
 			</dict>
 		</dict>
 	</array>
