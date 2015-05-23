@@ -307,6 +307,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>CSS Property Value</string>
+			<key>scope</key>
+			<string>meta.property-value.css, meta.property-value.scss</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#707070</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Library function</string>
 			<key>scope</key>
 			<string>support.function</string>
