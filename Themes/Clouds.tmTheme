@@ -205,7 +205,10 @@
 			<key>scope</key>
 			<string>variable.parameter</string>
 			<key>settings</key>
-			<dict/>
+			<dict>
+				<key>foreground</key>
+				<string>#50a372</string>
+			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -362,7 +365,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FF002A</string>
+				<string>#ff002a</string>
+				<key>foreground</key>
+				<string>#ffffff</string>
 			</dict>
 		</dict>
 		<dict>
