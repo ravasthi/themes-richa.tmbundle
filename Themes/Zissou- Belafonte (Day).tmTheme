@@ -15,11 +15,11 @@
 		<key>divider</key>
 		<string>#c0b7a2</string>
 		<key>foreground</key>
-		<string>#45373c</string>
+		<string>#9d897d</string>
 		<key>selectionBackground</key>
 		<string>#d5ccba</string>
 		<key>selectionForeground</key>
-		<string>#968c83</string>
+		<string>#675e56</string>
 	</dict>
 	<key>name</key>
 	<string>Zissou: Belafonte (Day)</string>
@@ -31,7 +31,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#d5ccba</string>
+				<string>#e6decf</string>
 				<key>caret</key>
 				<string>#45373c</string>
 				<key>foreground</key>
@@ -63,7 +63,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#7a6e6a</string>
+				<string>#ada19c</string>
 			</dict>
 		</dict>
 		<dict>
