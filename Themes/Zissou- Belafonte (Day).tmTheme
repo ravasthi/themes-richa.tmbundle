@@ -52,7 +52,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#45373c</string>
+				<string>#bf7c31</string>
 			</dict>
 		</dict>
 		<dict>
@@ -103,7 +103,7 @@
 			<key>name</key>
 			<string>Keywords</string>
 			<key>scope</key>
-			<string>keyword, keyword.control</string>
+			<string>keyword, keyword.control, support.constant.property-value</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -195,7 +195,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#7ca89e</string>
+				<string>#245686</string>
 			</dict>
 		</dict>
 		<dict>
@@ -206,7 +206,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#7ca89e</string>
+				<string>#245686</string>
 			</dict>
 		</dict>
 		<dict>
@@ -217,7 +217,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#7ca89e</string>
+				<string>#245686</string>
 			</dict>
 		</dict>
 		<dict>
@@ -228,7 +228,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#7ca89e</string>
+				<string>#245686</string>
 			</dict>
 		</dict>
 		<dict>
@@ -246,7 +246,7 @@
 			<key>name</key>
 			<string>Attributes</string>
 			<key>scope</key>
-			<string>entity.other.attribute-name</string>
+			<string>entity.other.attribute-name, entity.name.attribute-name</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -301,13 +301,24 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Property name</string>
+			<key>scope</key>
+			<string>meta.property-name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#bf7c31</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Units</string>
 			<key>scope</key>
 			<string>keyword.other.unit</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#7ca89e</string>
+				<string>#989a9c</string>
 			</dict>
 		</dict>
 		<dict>
@@ -441,11 +452,11 @@
 			<key>name</key>
 			<string>Colors</string>
 			<key>scope</key>
-			<string>constant.other.color</string>
+			<string>constant.other.color, support.constant.color</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#989a9c</string>
+				<string>#781a61</string>
 			</dict>
 		</dict>
 		<dict>
