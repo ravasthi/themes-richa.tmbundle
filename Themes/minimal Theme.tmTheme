@@ -22,7 +22,7 @@
 				<key>lineHighlight</key>
 				<string>#232826</string>
 				<key>selection</key>
-				<string>#180024</string>
+				<string>#18002480</string>
 			</dict>
 		</dict>
 		<dict>
@@ -502,10 +502,7 @@
 			<key>scope</key>
 			<string>markup.list</string>
 			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#1A1231</string>
-			</dict>
+			<dict/>
 		</dict>
 		<dict>
 			<key>name</key>
