@@ -337,6 +337,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Markup.raw</string>
+			<key>scope</key>
+			<string>markup.raw</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#525B4A</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>diff.header</string>
 			<key>scope</key>
 			<string>meta.diff, meta.diff.header</string>

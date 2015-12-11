@@ -41,7 +41,7 @@
 				<key>lineHighlight</key>
 				<string>#302129</string>
 				<key>selection</key>
-				<string>#45373c</string>
+				<string>#6c525ca0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -52,7 +52,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8da643</string>
+				<string>#c09f54</string>
 			</dict>
 		</dict>
 		<dict>
@@ -96,7 +96,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#968c83</string>
+				<string>#8b70a3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -195,7 +195,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#858162</string>
+				<string>#7e9759</string>
 			</dict>
 		</dict>
 		<dict>
@@ -305,7 +305,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8f794b</string>
+				<string>#877858</string>
 			</dict>
 		</dict>
 		<dict>
@@ -316,7 +316,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8da643</string>
+				<string>#c09f54</string>
 			</dict>
 		</dict>
 		<dict>
@@ -444,8 +444,10 @@
 			<string>markup.inserted</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#aec387</string>
 				<key>foreground</key>
-				<string>#858162</string>
+				<string>#677350</string>
 			</dict>
 		</dict>
 		<dict>
@@ -455,8 +457,10 @@
 			<string>markup.deleted</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#dd5057</string>
 				<key>foreground</key>
-				<string>#c74a4d</string>
+				<string>#6b2f32</string>
 			</dict>
 		</dict>
 		<dict>
@@ -466,6 +470,8 @@
 			<string>markup.changed</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#cfa692</string>
 				<key>foreground</key>
 				<string>#97522c</string>
 			</dict>
@@ -511,7 +517,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#67281a</string>
+				<string>#968ea3</string>
 			</dict>
 		</dict>
 		<dict>
