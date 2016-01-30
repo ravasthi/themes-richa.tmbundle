@@ -193,7 +193,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d28445</string>
+				<string>#f0a946</string>
 			</dict>
 		</dict>
 		<dict>
@@ -204,7 +204,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d28445</string>
+				<string>#f0a946</string>
 			</dict>
 		</dict>
 		<dict>
@@ -215,7 +215,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d28445</string>
+				<string>#f0a946</string>
 			</dict>
 		</dict>
 		<dict>
@@ -226,7 +226,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d28445</string>
+				<string>#f0a946</string>
 			</dict>
 		</dict>
 		<dict>
@@ -253,6 +253,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Attribute classes</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name.class</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#925a86</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Attribute IDs</string>
 			<key>scope</key>
 			<string>entity.other.attribute-name.id, punctuation.definition.entity</string>
@@ -275,13 +286,24 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Values</string>
+			<string>Property names</string>
 			<key>scope</key>
-			<string>none</string>
+			<string>support.type.property-name</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d28445</string>
+				<string>#989898</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Property values</string>
+			<key>scope</key>
+			<string>support.constant.property-value</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6a9fb5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -305,7 +327,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d28445</string>
+				<string>#8f5536</string>
 			</dict>
 		</dict>
 		<dict>
