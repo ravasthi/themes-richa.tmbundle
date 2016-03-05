@@ -24,7 +24,7 @@
 	<key>name</key>
 	<string>Paraíso (light)</string>
 	<key>semanticClass</key>
-	<string>theme.light.paraíso_light</string>
+	<string>theme.light.paraíso</string>
 	<key>settings</key>
 	<array>
 		<dict>

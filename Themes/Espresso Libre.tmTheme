@@ -6,6 +6,8 @@
 	<string>Chris Thomas</string>
 	<key>name</key>
 	<string>Espresso Libre</string>
+  <key>semanticClass</key>
+  <string>theme.dark.espresso-libre</string>
 	<key>settings</key>
 	<array>
 		<dict>

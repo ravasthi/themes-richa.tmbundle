@@ -4,6 +4,8 @@
 <dict>
 	<key>name</key>
 	<string>Putty</string>
+	<key>semanticClass</key>
+	<string>theme.dark.putty</string>
 	<key>settings</key>
 	<array>
 		<dict>

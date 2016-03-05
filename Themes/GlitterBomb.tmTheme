@@ -4,6 +4,8 @@
 <dict>
 	<key>name</key>
 	<string>GlitterBomb</string>
+	<key>semanticClass</key>
+	<string>theme.dark.glitter-bomb</string>
 	<key>settings</key>
 	<array>
 		<dict>

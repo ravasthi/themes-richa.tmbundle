@@ -6,6 +6,8 @@
 	<string>From Why’s Poignant Guide to Ruby</string>
 	<key>name</key>
 	<string>Why’s Poignant</string>
+	<key>semanticClass</key>
+	<string>theme.light.whys-poignant</string>
 	<key>settings</key>
 	<array>
 		<dict>

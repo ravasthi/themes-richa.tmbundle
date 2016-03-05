@@ -11,7 +11,7 @@
 	<key>name</key>
 	<string>Kuroir Theme</string>
 	<key>semanticClass</key>
-	<string>theme.light.kuroir_theme</string>
+	<string>theme.light.kuroir</string>
 	<key>settings</key>
 	<array>
 		<dict>

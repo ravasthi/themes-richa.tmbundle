@@ -4,6 +4,8 @@
 <dict>
 	<key>name</key>
 	<string>Espresso</string>
+	<key>semanticClass</key>
+	<string>theme.light.espresso</string>
 	<key>settings</key>
 	<array>
 		<dict>

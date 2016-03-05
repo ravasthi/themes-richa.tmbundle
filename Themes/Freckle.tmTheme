@@ -4,6 +4,8 @@
 <dict>
 	<key>name</key>
 	<string>Freckle</string>
+	<key>semanticClass</key>
+	<string>theme.light.freckle</string>
 	<key>settings</key>
 	<array>
 		<dict>

@@ -6,6 +6,8 @@
 	<string>Chris Thomas</string>
 	<key>name</key>
 	<string>Tango</string>
+	<key>semanticClass</key>
+	<string>theme.light.tango</string>
 	<key>settings</key>
 	<array>
 		<dict>

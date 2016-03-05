@@ -6,6 +6,8 @@
 	<string>Created by Kenneth Reitz, inspired by minimal design</string>
 	<key>name</key>
 	<string>krTheme</string>
+	<key>semanticClass</key>
+	<string>theme.dark.minimal-kr</string>
 	<key>settings</key>
 	<array>
 		<dict>

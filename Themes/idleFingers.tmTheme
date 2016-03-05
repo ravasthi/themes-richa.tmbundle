@@ -4,6 +4,8 @@
 <dict>
 	<key>name</key>
 	<string>idleFingers</string>
+	<key>semanticClass</key>
+	<string>theme.dark.idle-fingers</string>
 	<key>settings</key>
 	<array>
 		<dict>

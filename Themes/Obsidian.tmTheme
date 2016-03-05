@@ -6,6 +6,19 @@
 	<string>Marcus Ekwall</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
+	<key>gutterSettings</key>
+	<dict>
+		<key>background</key>
+		<string>#5a6266</string>
+		<key>divider</key>
+		<string>#5a6266</string>
+		<key>foreground</key>
+		<string>#848b8e</string>
+		<key>selectionBackground</key>
+		<string>#404E51a0</string>
+		<key>selectionForeground</key>
+		<string>#97a1a4</string>
+	</dict>
 	<key>name</key>
 	<string>Obsidian</string>
 	<key>semanticClass</key>
@@ -18,15 +31,15 @@
 				<key>background</key>
 				<string>#283034</string>
 				<key>caret</key>
-				<string>#E0E2E4</string>
+				<string>#e0e2e4</string>
 				<key>foreground</key>
-				<string>#81969A</string>
+				<string>#81969a</string>
 				<key>invisibles</key>
-				<string>#BFBFBF55</string>
+				<string>#bfbfbf55</string>
 				<key>lineHighlight</key>
 				<string>#283034</string>
 				<key>selection</key>
-				<string>#404E51</string>
+				<string>#404E51a0</string>
 			</dict>
 		</dict>
 		<dict>

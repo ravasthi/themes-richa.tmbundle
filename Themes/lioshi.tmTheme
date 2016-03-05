@@ -10,6 +10,10 @@
 	<string>http:&#x2f;&#x2f;lioshi.com based on Tommorrow night by http:&#x2f;&#x2f;chriskempson.com</string>
 	<key>name</key>
 	<string>lioshi</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
+	<key>semanticClass</key>
+	<string>theme.dark.lioshi</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -699,10 +703,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>F96223EB-1A60-4617-92F3-D24D4F13DB09</string>
-	<key>colorSpaceName</key>
-	<string>sRGB</string>
-	<key>semanticClass</key>
-	<string>theme.dark.lioshi</string>
+	<string>1730a209-12d5-4c90-8b54-d505cde2bd42</string>
 </dict>
 </plist>

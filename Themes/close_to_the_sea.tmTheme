@@ -4,6 +4,8 @@
 <dict>
 	<key>name</key>
 	<string>Close to the Sea</string>
+  <key>semanticClass</key>
+  <string>theme.dark.close-to-the-sea</string>
 	<key>settings</key>
 	<array>
 		<dict>

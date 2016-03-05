@@ -8,6 +8,8 @@
 	<string>Created by Alex Ross</string>
 	<key>name</key>
 	<string>SpaceCadet</string>
+	<key>semanticClass</key>
+	<string>theme.dark.space-cadet</string>
 	<key>settings</key>
 	<array>
 		<dict>

@@ -4,6 +4,8 @@
 <dict>
 	<key>name</key>
 	<string>Pastie</string>
+	<key>semanticClass</key>
+	<string>theme.light.pastie</string>
 	<key>settings</key>
 	<array>
 		<dict>

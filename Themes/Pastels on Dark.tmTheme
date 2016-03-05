@@ -4,6 +4,8 @@
 <dict>
 	<key>name</key>
 	<string>Pastels on Dark</string>
+	<key>semanticClass</key>
+	<string>theme.dark.pastels-on-dark</string>
 	<key>settings</key>
 	<array>
 		<dict>

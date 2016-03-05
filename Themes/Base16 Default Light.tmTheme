@@ -22,7 +22,7 @@
 	<key>name</key>
 	<string>Base16 Default Light (Richa)</string>
 	<key>semanticClass</key>
-	<string>theme.light.base16_default_light</string>
+	<string>theme.light.base16-default-richa</string>
 	<key>settings</key>
 	<array>
 		<dict>

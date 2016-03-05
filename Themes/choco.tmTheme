@@ -4,6 +4,8 @@
 <dict>
 	<key>name</key>
 	<string>choco</string>
+	<key>semanticClass</key>
+	<string>theme.dark.choco</string>
 	<key>settings</key>
 	<array>
 		<dict>

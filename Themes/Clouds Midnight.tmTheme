@@ -4,6 +4,8 @@
 <dict>
 	<key>name</key>
 	<string>Clouds Midnight</string>
+  <key>semanticClass</key>
+  <string>theme.dark.clouds-midnight</string>
 	<key>settings</key>
 	<array>
 		<dict>

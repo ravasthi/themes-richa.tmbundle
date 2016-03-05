@@ -6,6 +6,8 @@
 	<string>William D. Neumann</string>
 	<key>name</key>
 	<string>Amy</string>
+	<key>semanticClass</key>
+	<string>theme.dark.amy</string>
 	<key>settings</key>
 	<array>
 		<dict>

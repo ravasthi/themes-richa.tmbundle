@@ -6,6 +6,8 @@
 	<string>Domenico Carbotta</string>
 	<key>name</key>
 	<string>Blackboard</string>
+	<key>semanticClass</key>
+	<string>theme.dark.blackboard</string>
 	<key>settings</key>
 	<array>
 		<dict>

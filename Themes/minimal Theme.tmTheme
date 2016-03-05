@@ -6,6 +6,8 @@
 	<string>Created by minimal design, inspired by GANDI website</string>
 	<key>name</key>
 	<string>minimal Theme</string>
+	<key>semanticClass</key>
+	<string>theme.dark.minimal</string>
 	<key>settings</key>
 	<array>
 		<dict>

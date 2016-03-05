@@ -4,6 +4,8 @@
 <dict>
 	<key>name</key>
 	<string>Railscasts</string>
+	<key>semanticClass</key>
+	<string>theme.dark.railscasts</string>
 	<key>settings</key>
 	<array>
 		<dict>

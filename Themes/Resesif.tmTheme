@@ -4,6 +4,8 @@
 <dict>
 	<key>name</key>
 	<string>Resesif</string>
+	<key>semanticClass</key>
+	<string>theme.dark.resesif</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -16,7 +18,7 @@
 				<key>foreground</key>
 				<string>#E6E1DC</string>
 				<key>invisibles</key>
-				<string>#484848</string>
+				<string>#48484880</string>
 				<key>lineHighlight</key>
 				<string>#333435</string>
 				<key>selection</key>

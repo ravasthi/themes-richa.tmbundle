@@ -8,6 +8,8 @@
 	<string>Kenneth Reitz</string>
 	<key>name</key>
 	<string>Smoothy</string>
+	<key>semanticClass</key>
+	<string>theme.light.smoothy</string>
 	<key>settings</key>
 	<array>
 		<dict>

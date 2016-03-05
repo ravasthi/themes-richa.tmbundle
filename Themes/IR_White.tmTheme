@@ -4,6 +4,8 @@
 <dict>
 	<key>name</key>
 	<string>IR_White</string>
+	<key>semanticClass</key>
+	<string>theme.light.ir-white</string>
 	<key>settings</key>
 	<array>
 		<dict>

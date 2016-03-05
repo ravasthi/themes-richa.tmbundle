@@ -22,7 +22,7 @@
 	<key>name</key>
 	<string>Base16 Eighties Light (Richa)</string>
 	<key>semanticClass</key>
-	<string>theme.light.base16_eighties_light</string>
+	<string>theme.light.base16-eighties-richa</string>
 	<key>settings</key>
 	<array>
 		<dict>

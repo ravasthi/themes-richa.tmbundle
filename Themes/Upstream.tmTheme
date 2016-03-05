@@ -6,6 +6,8 @@
 	<string>Derek Anderson</string>
 	<key>name</key>
 	<string>Upstream</string>
+	<key>semanticClass</key>
+	<string>theme.dark.upstream</string>
 	<key>settings</key>
 	<array>
 		<dict>

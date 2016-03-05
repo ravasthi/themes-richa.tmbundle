@@ -22,7 +22,7 @@
 	<key>name</key>
 	<string>Base16 Mocha Light (Richa)</string>
 	<key>semanticClass</key>
-	<string>theme.light.base16_mocha_light</string>
+	<string>theme.light.base16-mocha-richa</string>
 	<key>settings</key>
 	<array>
 		<dict>

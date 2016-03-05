@@ -10,6 +10,10 @@
 	<string>Max Franks</string>
 	<key>name</key>
 	<string>Red Planet Dark</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
+	<key>semanticClass</key>
+	<string>theme.dark.red-planet</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -709,10 +713,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>97a5f77c-f111-4740-a458-7748adea237a</string>
-	<key>colorSpaceName</key>
-	<string>sRGB</string>
-	<key>semanticClass</key>
-	<string>theme.dark.red_planet_dark</string>
+	<string>4eda1717-5143-47f7-9fce-ec14ff5b35a1</string>
 </dict>
 </plist>

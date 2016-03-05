@@ -10,6 +10,14 @@
 	<string>github.com&#x2f;uonick</string>
 	<key>name</key>
 	<string>Dimmed</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
+	<key>semanticClass</key>
+	<string>theme.light.dimmed</string>
+	<key>author</key>
+	<string>uonick</string>
+	<key>uuid</key>
+	<string>2e827776-fccf-466a-ba7b-aad9a2f62e84</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -722,11 +730,5 @@
 			</dict>
 		</dict>
 	</array>
-	<key>colorSpaceName</key>
-	<string>sRGB</string>
-	<key>semanticClass</key>
-	<string>theme.light.dimmed</string>
-	<key>author</key>
-	<string>uonick</string>
 </dict>
 </plist>

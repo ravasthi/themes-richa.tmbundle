@@ -4,6 +4,8 @@
 <dict>
 	<key>name</key>
 	<string>Slush &amp; Poppies</string>
+	<key>semanticClass</key>
+	<string>theme.light.slush-and-poppies</string>
 	<key>settings</key>
 	<array>
 		<dict>

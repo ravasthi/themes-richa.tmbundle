@@ -8,6 +8,8 @@
 	<string>A theme based on the Espresso default theme.</string>
 	<key>name</key>
 	<string>Espresso tutti colori</string>
+	<key>semanticClass</key>
+	<string>theme.light.espresso-tutti-colori</string>
 	<key>settings</key>
 	<array>
 		<dict>

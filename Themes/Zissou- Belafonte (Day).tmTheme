@@ -24,7 +24,7 @@
 	<key>name</key>
 	<string>Zissou: Belafonte (Day)</string>
 	<key>semanticClass</key>
-	<string>theme.light.zissou:_belafonte_day</string>
+	<string>theme.light.zissou-belafonte-day</string>
 	<key>settings</key>
 	<array>
 		<dict>

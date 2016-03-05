@@ -12,6 +12,10 @@
 	<string>Dimmed - Monokai</string>
 	<key>name</key>
 	<string>Dimmed - Monokai</string>
+  <key>semanticClass</key>
+  <string>theme.dark.monokai-dimmed</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -712,9 +716,5 @@
 			</dict>
 		</dict>
 	</array>
-	<key>colorSpaceName</key>
-	<string>sRGB</string>
-	<key>semanticClass</key>
-	<string>theme.dark.dimmed_monokai</string>
 </dict>
 </plist>

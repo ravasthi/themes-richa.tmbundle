@@ -10,6 +10,10 @@
 	<string>http:&#x2f;&#x2f;wexpert.ru</string>
 	<key>name</key>
 	<string>WebExPert</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
+	<key>semanticClass</key>
+	<string>theme.dark.web-ex-pert</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -827,9 +831,5 @@
 	</array>
 	<key>uuid</key>
 	<string>5ee44a11-1876-498f-9190-372117ad513c</string>
-	<key>colorSpaceName</key>
-	<string>sRGB</string>
-	<key>semanticClass</key>
-	<string>theme.dark.web_ex_pert</string>
 </dict>
 </plist>

@@ -6,6 +6,8 @@
 	<string>William D. Neumann</string>
 	<key>name</key>
 	<string>zenburn</string>
+	<key>semanticClass</key>
+	<string>theme.dark.zenburn</string>
 	<key>settings</key>
 	<array>
 		<dict>
