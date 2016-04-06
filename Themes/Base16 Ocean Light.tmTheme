@@ -277,11 +277,11 @@
 			<key>name</key>
 			<string>Values</string>
 			<key>scope</key>
-			<string>none</string>
+			<string>support.constant.property-value</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d08770</string>
+				<string>#ab7967</string>
 			</dict>
 		</dict>
 		<dict>
@@ -305,7 +305,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d08770</string>
+				<string>#a7adba</string>
 			</dict>
 		</dict>
 		<dict>
