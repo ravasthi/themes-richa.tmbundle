@@ -44,7 +44,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Text</string>
+			<string>Function parameters</string>
 			<key>scope</key>
 			<string>variable.parameter.function</string>
 			<key>settings</key>
