@@ -9,11 +9,11 @@
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
-		<string>#202020</string>
+		<string>#505050</string>
 		<key>divider</key>
 		<string>#202020</string>
 		<key>foreground</key>
-		<string>#505050</string>
+		<string>#808080</string>
 		<key>selectionBackground</key>
 		<string>#303030</string>
 		<key>selectionForeground</key>
@@ -29,11 +29,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#151515</string>
+				<string>#303030</string>
 				<key>caret</key>
 				<string>#d0d0d0</string>
 				<key>foreground</key>
-				<string>#d0d0d0</string>
+				<string>#c0c0c0</string>
 				<key>invisibles</key>
 				<string>#505050</string>
 				<key>lineHighlight</key>
