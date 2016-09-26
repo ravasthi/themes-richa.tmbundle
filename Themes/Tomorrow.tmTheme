@@ -22,9 +22,9 @@
 				<key>invisibles</key>
 				<string>#C7CEE1</string>
 				<key>lineHighlight</key>
-				<string>#E9EFFF</string>
+				<string>#E9EFFF80</string>
 				<key>selection</key>
-				<string>#C5CCE9</string>
+				<string>#C5CCE980</string>
 			</dict>
 		</dict>
 		<dict>
