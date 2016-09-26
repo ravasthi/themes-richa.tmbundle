@@ -9,15 +9,15 @@
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
-		<string>#e0d9d7</string>
+		<string>#e9e1dd</string>
 		<key>divider</key>
-		<string>#b1aaa9</string>
+		<string>#f5eeeb</string>
 		<key>foreground</key>
-		<string>#a28465</string>
+		<string>#7e705a</string>
 		<key>selectionBackground</key>
 		<string>#f5eeeb</string>
 		<key>selectionForeground</key>
-		<string>#a49e9c</string>
+		<string>#b8afad</string>
 	</dict>
 	<key>name</key>
 	<string>Base16 Mocha Light (Richa)</string>
@@ -35,7 +35,7 @@
 				<key>foreground</key>
 				<string>#645240</string>
 				<key>invisibles</key>
-				<string>#e9e1dd40</string>
+				<string>#e9e1dd</string>
 				<key>lineHighlight</key>
 				<string>#d5cac5a0</string>
 				<key>selection</key>
@@ -275,13 +275,24 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Values</string>
+			<string>Property Names</string>
 			<key>scope</key>
-			<string>none</string>
+			<string>support.type.property-name, entity.name.attribute-name</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d28b71</string>
+				<string>#7e705a</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Property Values</string>
+			<key>scope</key>
+			<string>support.constant.property-value</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#8ab3b5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -305,7 +316,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d28b71</string>
+				<string>#b8afad</string>
 			</dict>
 		</dict>
 		<dict>
@@ -490,6 +501,45 @@
 				<string>#cb6077</string>
 				<key>foreground</key>
 				<string>#f5eeeb</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Broken</string>
+			<key>scope</key>
+			<string>invalid.broken</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#d28b71</string>
+				<key>foreground</key>
+				<string>#3B3228</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deprecated</string>
+			<key>scope</key>
+			<string>invalid.deprecated</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#bb9584</string>
+				<key>foreground</key>
+				<string>#f5eeeb</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Unimplemented</string>
+			<key>scope</key>
+			<string>invalid.unimplemented</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#d0c8c6</string>
+				<key>foreground</key>
+				<string>#3B3228</string>
 			</dict>
 		</dict>
 	</array>
