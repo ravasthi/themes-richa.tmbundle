@@ -403,7 +403,7 @@
 			<key>name</key>
 			<string>css tag-name</string>
 			<key>scope</key>
-			<string>entity.name.tag</string>
+			<string>entity.name.tag, entity.name.tag.inline</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -425,7 +425,7 @@
 			<key>name</key>
 			<string>css#id</string>
 			<key>scope</key>
-			<string>meta.selector entity.other.attribute-name.id,entity.other.attribute-name.id.css</string>
+			<string>meta.selector entity.other.attribute-name.id, entity.other.attribute-name.id.css</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -788,7 +788,7 @@
 			<key>name</key>
 			<string>HTML Attribute name</string>
 			<key>scope</key>
-			<string>entity.other.attribute-name.html</string>
+			<string>entity.other.attribute-name.html, meta.tag.attribute-name.js</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
