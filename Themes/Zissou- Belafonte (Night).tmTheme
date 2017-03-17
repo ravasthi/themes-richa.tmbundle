@@ -123,6 +123,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Language variables</string>
+			<key>scope</key>
+			<string>variable.language</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#b7b0a5</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Functions</string>
 			<key>scope</key>
 			<string>entity.name.function, meta.require, support.function.any-method</string>
