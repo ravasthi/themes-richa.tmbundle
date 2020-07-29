@@ -4,8 +4,8 @@
 <dict>
 	<key>name</key>
 	<string>Creeper</string>
-  <key>semanticClass</key>
-  <string>theme.dark.creeper</string>
+	<key>semanticClass</key>
+	<string>theme.dark.creeper</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -171,8 +171,10 @@
 			<string>invalid</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#7f2638</string>
 				<key>foreground</key>
-				<string>#F45E43</string>
+				<string>#ffffff</string>
 			</dict>
 		</dict>
 		<dict>
